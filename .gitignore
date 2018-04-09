@@ -1,0 +1,17 @@
+# Python
+-------------
+*.pyc
+
+# PyCharm
+------------
+*.idea
+.idea/
+
+
+Virtual Environments
+--------------------
+env/
+
+Jupyter Notebooks
+------------------------
+*.ipynb
