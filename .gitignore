@@ -12,6 +12,6 @@ Virtual Environments
 --------------------
 env/
 
-Jupyter Notebooks
-------------------------
-*.ipynb
+Notebooks
+------------
+.ipynb_checkpoints/
